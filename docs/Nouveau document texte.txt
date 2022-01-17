@@ -1,0 +1,39 @@
+the team behind cardashift believes that africa in particular could experience Defi and digital technologies 
+as a development booster. Cardano is striving towards carbon neutrality, Cardashift have explained that they 
+believe it's important for cryptocurrencies to remove the image of being polluters.In particular when you 
+are working with sustainability. the team point towards Bitcoins annual emmissions being equal to that of 
+the carbon footprint of Nigeria. The Oroboros protocol from cardano solves this issue with electricity consumption.
+The cardashift team point out that a single bitcoin transaction uses as much electricity as 2 refrigerators do 
+an entire year while a single cardano transaction uses as much electricity as a laptop charging for five hours.
+There are third reaseons to choosing cardano as their blockchain is due to its deterministic nature and functionnal
+programming, meaning that when you initiate a transaction on the cardano blockchain, you know ahead of time what fees you
+will be subjected to what is gonna happen and basically the nature of the transaction process. And cardashift explain that
+when dealing whith impact investment on large scales it's vital to know these things. The projects featured on the launchpad
+will be selected, based on three based criterias.
+
+1 -  The project featured should have a tangible and positive impact
+2 - be at an early stage
+3 - should have a demonstrable high business potential
+4 - the project featured on our platform will initially be funded through an IDO model initial Dex offering.
+Later on other options for funding will be available such as liquidity pooling, staking airdrops etc.
+
+The selection of projects will be done through a vote by staking method, the initial projects will be pre selected
+at least as far as I've understood it.starting off however only IDO funding would be available investors will use their clap tokens
+which is the name of the cardashift tokens to invest on the projects of their liking. In the future investors would be able to use
+other cryptocurrencies as well to invest in the projects on the launchpad. Those projects would be subjected to a 4% fee, that 
+will be used by back clap tokens, increasing the demand for the token. In the initial stages however, investors will use their 
+clap tokens to invest in the project they select and receive a corresponding project token. These project token will hopefully
+appreciate in value if the project is successful. Later on the project investors will be able to buy back clap tokens but subjected 
+to a 4 % fee. The fully diluted market cap of the clap token is one billion in the first public sale 160 million tokens will be sold
+where you will receive 30 clap tokens for each one ADA Cardano that is. Also there is a lockup period for the investors of the 
+private sell that's already been held. as well as the team behing it. 
+
+Another IDO platform is Parasol finance
+it has the ambition to become the first community governed Ido platform. Ido in this context stands for initial dex offerings, so
+basically a laucnhing platform for various crypto projects. It's a platform for launching new coins, tokens, crypto projects, raising liquidity
+for all kinds of crypto crowdfunding in a decentralised manner. Parasol token gives the right to the holder to vote on which project
+should be initiated and which shouldn't be. It also intends to limit the investment cap, ensuring that whales don't hijack the initial
+offerings of the coins or projects and dumping them straight afterwards.
+
+bear market en cours (période) peut être. ça ne change rien. 
+
