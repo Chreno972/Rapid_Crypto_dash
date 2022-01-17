@@ -13,9 +13,8 @@ fetch(url)
     }
 })
 .then((data) => {
-    console.log(data);
     for (let item of data) {
-        let percentage = parseFloat(item.price_change_percentage_1h_in_currency.toFixed(2));
+        let percentage = parseFloat(item.price_change_percentage_24h.toFixed(2));
         crypto_container.innerHTML += `
         <td class="cols">${item.market_cap_rank}</td>
         <td class="cols" style="text-transform:uppercase"><strong>${item.symbol}</strong></td>
